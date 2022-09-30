@@ -1,0 +1,9 @@
+.idea
+CMakeLists.txt
+cmake-build-debug
+.vscode
+valgrind.rpt
+endgame
+.DS_Store
+obj
+save.dat
